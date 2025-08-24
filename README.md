@@ -77,8 +77,8 @@ voice-assistant/
 - **macOS 12 Monterey or later** (for macOS users)
 - **Windows 10/11** (for Windows users)
 - **Linux** (Ubuntu 20.04+ recommended)
-- **8GB RAM minimum** (16GB+ recommended for optimal performance)
-- **2GB free disk space** for models and dependencies
+- **16GB RAM minimum** (32GB+ recommended for optimal performance)
+- **4 ~ 20 GB free disk space** for models and dependencies depends upon LLM
 
 ### Step 1: Install Ollama
 
