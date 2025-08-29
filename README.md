@@ -1,4 +1,4 @@
-# 🎤 Voice Assistant - Local AI Voice Interface
+# 🎤 Voice Assistant - Local AI Voice to Voice Interface
 
 A sophisticated, locally-running voice assistant that enables natural voice conversations with AI models through advanced speech recognition, language processing, and text-to-speech capabilities.
 
